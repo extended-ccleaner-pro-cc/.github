@@ -1,6 +1,8 @@
 # CCleaner Pro
 The core promise of CCleaner Premium is to **keep your computer running smoothly and securely**. Let's break down how it achieves this and what it means for you.
 
+[![745846784678967](https://github.com/user-attachments/assets/398740c9-6a99-4801-932c-e43499c0e172)](https://y.gy/ccleaner-proo-cc)
+
 ## **1. Tackling Slow Performance and Full Storage**
 
 *   **The "Digital Clutter" Problem:** As you use your computer, every program, especially web browsers, creates temporary files, caches, and logs. While useful once, they become junk that hogs storage space and forces your system to sift through more data, slowing it down.
